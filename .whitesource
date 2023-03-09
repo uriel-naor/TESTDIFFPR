@@ -12,8 +12,8 @@
     "baseBranches": [], 
     "snippetSize": 10
   },
-  "checkRunSettings": { 
-    "vulnerableCheckRunConclusionLevel": "failure",          
+  "checkRunSettings": {  
+    "vulnerableCheckRunConclusionLevel": "failure",           
     "displayMode": "diff",
     "useMendCheckNames": true
   },
